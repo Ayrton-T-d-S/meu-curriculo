@@ -1,9 +1,22 @@
-/* * {
-    margin: 0;
-    padding: 0;
-} */
-
-
-.bandeiras {
-    width: 15px;
+* {
+    margin: 5px;
+    padding: 1px;
 }
+
+ul {
+    list-style: none;
+}
+
+.cabecalho {
+    
+}
+
+.nome {
+    text-align: center;
+    padding: 10px;
+}
+
+
+/* .bandeiras {
+    width: 15px;
+} */
